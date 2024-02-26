@@ -8,7 +8,7 @@ public class Rectangle {
                 if(row == 1 || row == height || count == 1 || count == length){
                     System.out.print('8');
                 }else {
-                    System.out.println(' ');
+                    System.out.print(' ');
                 }
             }
             System.out.println();
